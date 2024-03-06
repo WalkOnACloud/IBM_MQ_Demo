@@ -10,6 +10,7 @@ namespace IBM_MQ_Demo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello MQ");
         }
     }
 }
