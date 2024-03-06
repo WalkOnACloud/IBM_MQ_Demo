@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33801.198
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IBM_MQ_Demo", "IBM_MQ_Demo\IBM_MQ_Demo.csproj", "{78075EC2-55F5-4550-ABB8-5968EA1B1391}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78075EC2-55F5-4550-ABB8-5968EA1B1391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78075EC2-55F5-4550-ABB8-5968EA1B1391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78075EC2-55F5-4550-ABB8-5968EA1B1391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78075EC2-55F5-4550-ABB8-5968EA1B1391}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {063050D2-24FA-4102-924C-E54D33C681F9}
+	EndGlobalSection
+EndGlobal
